@@ -1,2 +1,2 @@
 # Airfare_price_prediction
-Airfare Price Prediction using 7 different regression models
+This project deals with the problem of airfare prices prediction. I have used 7 different regression models and compared their accuracy.
